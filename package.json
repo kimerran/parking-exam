@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "DEBUG=park:main* node ./src/index.js",
-    "debug": "DEBUG=park* node ./src/index.js",
+    "debug": "DEBUG=park* node ./src/index.js"
   },
   "author": "",
   "license": "ISC",
