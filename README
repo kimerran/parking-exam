@@ -1,0 +1,16 @@
+// 3 entry points
+// 3 types of vehicles: S, M, L
+/*
+
+S - park in SP, MP, LP
+M - park in MP, LP
+L - park in LP
+
+flat rate of 40 pesos in 3 hours, exceeding:
+SP - 20/hr
+MP - 60/hr
+LP - 100/hr
+*/
+
+// a,b,c are entry points, if value is -1, then there's no more
+// r - are rows
